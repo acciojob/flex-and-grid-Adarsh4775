@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 .cards-wrapper{
-display:grid;
+display:flex;
 	
 }
 .card{
